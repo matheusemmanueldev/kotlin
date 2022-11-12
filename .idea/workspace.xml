@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="347f63e6-c717-4327-a5c6-7469eedb3385" name="Changes" comment="" />
+    <list default="true" id="347f63e6-c717-4327-a5c6-7469eedb3385" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Contlole_de_fluxo_If_else.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Criacao_de_funcao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Declaracao_de_Variaveis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Formatacao_ de_Strings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcao_de_unica_Linha.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcoes_de_string.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcoes_matematicas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Introducao_e_contlole_de_fluxo_If.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operadores_aritmeticos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Tipos_de_dados.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Unsigned.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variaveis_Mutaveis_e_Imutaveis.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gubt9JvmJ39UxFRY5xDLvo8NRw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -18,13 +46,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Kotlin.Contlole_de_fluxo_If_elseKt">
+    <configuration name="Contlole_de_fluxo_If_elseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Contlole_de_fluxo_If_elseKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2Kt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Funcao_de_unica_LinhaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funcao_de_unica_LinhaKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Funcoes_de_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funcoes_de_stringKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Funcoes_matematicasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funcoes_matematicasKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Contlole_de_fluxo_If_elseKt" />
+        <item itemvalue="Kotlin.Ex2Kt" />
+        <item itemvalue="Kotlin.Funcoes_matematicasKt" />
+        <item itemvalue="Kotlin.Funcoes_de_stringKt" />
+        <item itemvalue="Kotlin.Funcao_de_unica_LinhaKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
